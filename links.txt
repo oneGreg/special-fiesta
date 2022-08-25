@@ -1,0 +1,13 @@
+# django async or thread
+https://github.com/nbwoodward/django-async-threading/tree/master/thread
+
+# email to file
+https://github.com/ikvk/imap_tools/blob/master/examples/email_to_file.py
+
+https://docs.python.org/3/library/email.message.html#email.message.EmailMessage.as_bytes
+
+https://docs.python.org/3/library/email.message.html
+bytes = b"0x410x420x43"
+f = open("sample.txt", "wb")
+f.write(bytes)
+f.close()
