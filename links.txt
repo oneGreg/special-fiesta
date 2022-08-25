@@ -1,8 +1,14 @@
 # django models in multiple files
 https://cpske.github.io/ISP/django/separate-model-classes
 
+# django logviewer
+https://pypi.org/project/django-log-viewer/
+
 # django async or thread
 https://github.com/nbwoodward/django-async-threading/tree/master/thread
+
+
+# https://pypi.org/project/imap-tools/
 
 # email to file
 https://github.com/ikvk/imap_tools/blob/master/examples/email_to_file.py
