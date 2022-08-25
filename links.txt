@@ -1,3 +1,6 @@
+# django models in multiple files
+https://cpske.github.io/ISP/django/separate-model-classes
+
 # django async or thread
 https://github.com/nbwoodward/django-async-threading/tree/master/thread
 
@@ -11,3 +14,7 @@ bytes = b"0x410x420x43"
 f = open("sample.txt", "wb")
 f.write(bytes)
 f.close()
+
+
+# template engine
+https://realpython.com/primer-on-jinja-templating/
